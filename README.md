@@ -402,7 +402,7 @@ Add your final processed-output screenshot here
 
 ## 👩‍💻 Author
 
-**Karre Manusha**
+**Kamalapuram Meenakshi**
 
 B.Tech - Computer Science and Engineering
 
